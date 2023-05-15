@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shreya Agnihotri</h1>
 
 
-- 🔭 I’m currently working on **TBI Website,Algorithmic calculator**
-
-- 🌱 I’m currently learning **Bootstrap,React,Django**
-
-- 💬 Ask me about **Bootstrap,React,Django**
+- 🔭 I’m currently working on **Software Developer in ULA**
 
 - 📫 How to reach me **shreyaagnihotri2104@gmail.com**
 
